@@ -1,0 +1,25 @@
+certifi==2021.5.30
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+daal4py==2021.2.2
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1617877486026/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1621238361758/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528383308/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1618854593605/work
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1620831380353/work
+pandas @ file:///C:/ci/pandas_1618365631664/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+scikit-learn @ file:///C:/ci/scikit-learn_1622739441385/work
+scikit-learn-intelex==2021.20210504.131156
+scipy @ file:///C:/ci/scipy_1618856134946/work
+six @ file:///C:/ci/six_1605205426665/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wincertstore==0.2
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work

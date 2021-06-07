@@ -52,4 +52,4 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/architsharrma/DataScience_glassdoor_salary_project/blob/main/salary.png "Salary distribution")
 ![alt text](https://github.com/architsharrma/DataScience_glassdoor_salary_project/blob/main/top%2020%20headquarters.png "Top 20 headquarters")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/architsharrma/DataScience_glassdoor_salary_project/blob/main/insights.PNG "Insights")
